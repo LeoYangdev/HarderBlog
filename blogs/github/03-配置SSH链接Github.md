@@ -34,19 +34,19 @@ cat ~/.ssh/id_rsa.pub
 
 该rsa key内容复制后备用，如下图所示
 
-![image-20250204121956528](http://cdn.cookcode.xyz/img/blog/image-20250204121956528.png)
+![image-20250204121956528](http://cdn.derrick51.cn/img/blog/image-20250204121956528.png)
 
 ## 第三步：登录Github并添加公钥
 
 > 路径：Github-Settings-SSH and GPC keys
 
-![image-20250204122307874](http://cdn.cookcode.xyz/img/blog/image-20250204122307874.png)
+![image-20250204122307874](http://cdn.derrick51.cn/img/blog/image-20250204122307874.png)
 
 > 进入该界面，添加SSH Key
 
-![image-20250204122818182](http://cdn.cookcode.xyz/img/blog/image-20250204122818182.png)
+![image-20250204122818182](http://cdn.derrick51.cn/img/blog/image-20250204122818182.png)
 
-![image-20250204122840919](http://cdn.cookcode.xyz/img/blog/image-20250204122840919.png)
+![image-20250204122840919](http://cdn.derrick51.cn/img/blog/image-20250204122840919.png)
 
 ## 第四步：验证是否成功
 
@@ -56,6 +56,6 @@ ssh -T git@github.com
 
 验证结果如下便成功配置啦！！！
 
-![image-20250204123005290](http://cdn.cookcode.xyz/img/blog/image-20250204123005290.png)
+![image-20250204123005290](http://cdn.derrick51.cn/img/blog/image-20250204123005290.png)
 
 恭喜你，已经配置完成了，下面[使用bash进行仓库操作](./04-拉取和上传到Github仓库.md)吧！

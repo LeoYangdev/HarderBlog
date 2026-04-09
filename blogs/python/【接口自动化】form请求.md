@@ -45,8 +45,8 @@ class TestReq:
 
 可以发现，通过json传递的信息，返回是由data部分返回参数，请求headers的content-type是application/json，并非通过form表单的形式传递数据。
 
-![通过json参数传递](http://cdn.cookcode.xyz/img/blog/image-20230330165142146.png)
+![通过json参数传递](http://cdn.derrick51.cn/img/blog/image-20230330165142146.png)
 
 而通过form表单传输数据时，form的数据在请求的body中，可以明显观察到与json传递不同。
 
-![通过form表单传输](http://cdn.cookcode.xyz/img/blog/image-20230330165233465.png)
+![通过form表单传输](http://cdn.derrick51.cn/img/blog/image-20230330165233465.png)

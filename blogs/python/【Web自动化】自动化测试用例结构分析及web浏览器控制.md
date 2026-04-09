@@ -20,7 +20,7 @@ tags:
 
 自动化多了一个后置动作
 
-![image-20230326203435608](http://cdn.cookcode.xyz/img/blog/image-20230326203435608.png)
+![image-20230326203435608](http://cdn.derrick51.cn/img/blog/image-20230326203435608.png)
 
 ## IDE脚本对比
 
@@ -61,7 +61,7 @@ class TestSearchhgwc():
 
 增加测试断言
 
-![image-20230326205329911](http://cdn.cookcode.xyz/img/blog/image-20230326205329911.png)
+![image-20230326205329911](http://cdn.derrick51.cn/img/blog/image-20230326205329911.png)
 
 ## web浏览器控制
 

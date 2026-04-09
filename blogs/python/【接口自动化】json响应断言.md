@@ -30,4 +30,4 @@ def testhogwartsjsonpath(self)
 
 #### jsonpath的类型
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230329113142196.png" alt="image-20230329113142196" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230329113142196.png" alt="image-20230329113142196" style="zoom:50%;" />

@@ -19,7 +19,7 @@ tags:
 
 除了`selenium`提供的八大定位，还可以使用`js/css`定位
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230328153626711.png" alt="image-20230328153626711" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230328153626711.png" alt="image-20230328153626711" style="zoom:50%;" />
 
 ## 选择定位器通用原则
 

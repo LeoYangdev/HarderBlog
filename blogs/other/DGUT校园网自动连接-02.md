@@ -148,19 +148,19 @@ Python -WindowStyle Hidden -file "Autoconnect.py"
 
 2、右击开始菜单，进入计算机管理，单击创建基本任务，填入名称及描述。
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230317104120009.png" alt="image-20230317104120009" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230317104120009.png" alt="image-20230317104120009" style="zoom:50%;" />
 
 3、设置触发器（当计算机启动时）
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230317104400932.png" alt="image-20230317104400932" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230317104400932.png" alt="image-20230317104400932" style="zoom:50%;" />
 
 4、操作选择启动程序
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230317104426912.png" alt="image-20230317104426912" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230317104426912.png" alt="image-20230317104426912" style="zoom:50%;" />
 
 5、按图示填入对应路径，选择你刚才创建的cmd文件，起始目录为该文件所在目录。
 
-![image-20230317104528452](http://cdn.cookcode.xyz/img/blog/image-20230317104528452.png)
+![image-20230317104528452](http://cdn.derrick51.cn/img/blog/image-20230317104528452.png)
 
 6、点击完成即可。
 

@@ -12,11 +12,11 @@ tags:
 
 ### 功能测试场景（由工程师进行判定错误）
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230323204407637.png" alt="image-20230323204407637" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230323204407637.png" alt="image-20230323204407637" style="zoom:50%;" />
 
 ### UI自动化测试场景（由脚本进行错误的判定）
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230323204456732.png" alt="image-20230323204456732" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230323204456732.png" alt="image-20230323204456732" style="zoom:50%;" />
 
 > UI自动化测试和功能测试的本质是一样的。
 
@@ -31,7 +31,7 @@ tags:
 - 需要频繁回归的场景
 - 核心场景等
 
-![image-20230323205324715](http://cdn.cookcode.xyz/img/blog/image-20230323205324715.png)
+![image-20230323205324715](http://cdn.derrick51.cn/img/blog/image-20230323205324715.png)
 
 在这个图中，对比接口测试，UI测试执行效率低、成本高，单元测试执行效率高、成本低。但对比人工，自动化测试还是成本低的。
 
@@ -57,7 +57,7 @@ tags:
 - 掌握核心和重点
 - 理论结合实践
 
-<img src="http://cdn.cookcode.xyz/img/blog/image-20230323211823265.png" alt="image-20230323211823265" style="zoom:50%;" />
+<img src="http://cdn.derrick51.cn/img/blog/image-20230323211823265.png" alt="image-20230323211823265" style="zoom:50%;" />
 
 ### 初级
 
@@ -109,10 +109,10 @@ tags:
 
 ---
 
-![image-20230323214431804](http://cdn.cookcode.xyz/img/blog/image-20230323214431804.png)
+![image-20230323214431804](http://cdn.derrick51.cn/img/blog/image-20230323214431804.png)
 
 ### 面试题
 
 ---
 
-![image-20230323214500377](http://cdn.cookcode.xyz/img/blog/image-20230323214500377.png)
+![image-20230323214500377](http://cdn.derrick51.cn/img/blog/image-20230323214500377.png)

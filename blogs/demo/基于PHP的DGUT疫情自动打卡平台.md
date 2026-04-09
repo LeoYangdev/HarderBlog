@@ -31,13 +31,13 @@ categories:
 | 验证码     | 6位有效数字             |
 | 获取验证码 | 点击按钮后进入60s等待   |
 
-![image-20230317155619563](http://cdn.cookcode.xyz/img/blog/image-20230317155619563.png)
+![image-20230317155619563](http://cdn.derrick51.cn/img/blog/image-20230317155619563.png)
 
 ### 注销页
 
 此页面作为系统注销定时打卡的页面，与上页类似。
 
-![image-20230317160005890](http://cdn.cookcode.xyz/img/blog/image-20230317160005890.png)
+![image-20230317160005890](http://cdn.derrick51.cn/img/blog/image-20230317160005890.png)
 
 ## 后端
 
@@ -68,7 +68,7 @@ categories:
 
 我用的是`PHPMailer-6.5.4`，配置好`smtp`后可直接发送邮件。
 
-![image-20230317162924029](http://cdn.cookcode.xyz/img/blog/image-20230317162924029.png)
+![image-20230317162924029](http://cdn.derrick51.cn/img/blog/image-20230317162924029.png)
 
 ### 难点
 

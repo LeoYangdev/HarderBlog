@@ -63,7 +63,7 @@ def test_answer():
 
 先安装pytest，然后在 “ **文件-设置-工具-Python集成工具** ” 中的测试项，更改为pytest
 
-![image-20230323164044540](http://cdn.cookcode.xyz/img/blog/image-20230323164044540.png)
+![image-20230323164044540](http://cdn.derrick51.cn/img/blog/image-20230323164044540.png)
 
 ## 测试用例基本结构
 

@@ -18,23 +18,23 @@ tags:
 
 新建录制
 
-![image-20230326201415803](http://cdn.cookcode.xyz/img/blog/image-20230326201415803.png)
+![image-20230326201415803](http://cdn.derrick51.cn/img/blog/image-20230326201415803.png)
 
 新建项目名称
 
-![image-20230326201436620](http://cdn.cookcode.xyz/img/blog/image-20230326201436620.png)
+![image-20230326201436620](http://cdn.derrick51.cn/img/blog/image-20230326201436620.png)
 
 输入测试网址，点击开始录制即可
 
-![image-20230326201522160](http://cdn.cookcode.xyz/img/blog/image-20230326201522160.png)
+![image-20230326201522160](http://cdn.derrick51.cn/img/blog/image-20230326201522160.png)
 
-![image-20230326202148251](http://cdn.cookcode.xyz/img/blog/image-20230326202148251.png)
+![image-20230326202148251](http://cdn.derrick51.cn/img/blog/image-20230326202148251.png)
 
 ### 导出脚本
 
-![image-20230326202410174](http://cdn.cookcode.xyz/img/blog/image-20230326202410174.png)
+![image-20230326202410174](http://cdn.derrick51.cn/img/blog/image-20230326202410174.png)
 
 导出的测试用例可直接运行
 
-![image-20230326202507222](http://cdn.cookcode.xyz/img/blog/image-20230326202507222.png)
+![image-20230326202507222](http://cdn.derrick51.cn/img/blog/image-20230326202507222.png)
 

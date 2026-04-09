@@ -76,7 +76,7 @@ def wait_sleep():
 
 隐式等待一定要在查找前使用
 
-![image-20230326221404066](http://cdn.cookcode.xyz/img/blog/image-20230326221404066.png)
+![image-20230326221404066](http://cdn.derrick51.cn/img/blog/image-20230326221404066.png)
 
 
 

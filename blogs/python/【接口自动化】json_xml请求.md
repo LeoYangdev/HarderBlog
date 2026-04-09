@@ -52,4 +52,4 @@ r = requests.post(http://httpbin.org/post', data=xml, headers=headers).text
 
 ## 模板技术mustache
 
-![image-20230329091638315](http://cdn.cookcode.xyz/img/blog/image-20230329091638315.png)
+![image-20230329091638315](http://cdn.derrick51.cn/img/blog/image-20230329091638315.png)

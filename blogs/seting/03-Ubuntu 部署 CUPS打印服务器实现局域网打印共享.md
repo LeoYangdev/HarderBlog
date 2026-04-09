@@ -88,17 +88,17 @@ sudo ufw allow 631/tcp
 
 通过 CUPS Web 管理界面，您可以添加和配置打印机。在界面的首页上，点击 "Administration"，然后选择 "Add Printer"。按照界面上的指导添加和配置您的打印机。
 
-![image-20230824214643584](http://cdn.cookcode.xyz/img/blog/image-20230824214643584.png)
+![image-20230824214643584](http://cdn.derrick51.cn/img/blog/image-20230824214643584.png)
 
 > 注意，如果进入管理员页面需要输入用户名和密码，请使用系统（用户）账户密码登录。
 
-![image-20230824214253697](http://cdn.cookcode.xyz/img/blog/image-20230824214253697.png)
+![image-20230824214253697](http://cdn.derrick51.cn/img/blog/image-20230824214253697.png)
 
 ### 选择对应打印机添加
 
-![image-20230824214725494](http://cdn.cookcode.xyz/img/blog/image-20230824214725494.png)
+![image-20230824214725494](http://cdn.derrick51.cn/img/blog/image-20230824214725494.png)
 
-![image-20230824214820268](http://cdn.cookcode.xyz/img/blog/image-20230824214820268.png)
+![image-20230824214820268](http://cdn.derrick51.cn/img/blog/image-20230824214820268.png)
 
 添加后，在printers页面查看到打印机就正常了
 
@@ -106,7 +106,7 @@ sudo ufw allow 631/tcp
 
 在打印机选项内，可以打印测试页，若打印成功，证明您已成功部署 cups 服务器。
 
-![image-20230824214940929](http://cdn.cookcode.xyz/img/blog/image-20230824214940929.png)
+![image-20230824214940929](http://cdn.derrick51.cn/img/blog/image-20230824214940929.png)
 
 ## 局域网打印
 
@@ -114,11 +114,11 @@ sudo ufw allow 631/tcp
 
 由于cups使用ipp通信，我们需要获取打印机地址，在 `ip:631` 页面中可以查看。
 
-![image-20230824215424547](http://cdn.cookcode.xyz/img/blog/image-20230824215424547.png)
+![image-20230824215424547](http://cdn.derrick51.cn/img/blog/image-20230824215424547.png)
 
 ### Windows系统添加打印机
 
-![image-20230824215717958](http://cdn.cookcode.xyz/img/blog/image-20230824215717958.png)
+![image-20230824215717958](http://cdn.derrick51.cn/img/blog/image-20230824215717958.png)
 
 选择驱动，安装完成后打印测试页，若成功即可使用。
 
@@ -138,4 +138,4 @@ sudo ufw allow 631/tcp
 
 4、打印时若打印机无法选择，可以选择其它打印机，再选择即可。
 
-![image-20230824220620386](http://cdn.cookcode.xyz/img/blog/image-20230824220620386.png)
+![image-20230824220620386](http://cdn.derrick51.cn/img/blog/image-20230824220620386.png)
