@@ -9,8 +9,10 @@ sidebar: auto
 ⭐⭐⭐
 
 作者：英国曼彻斯特大学团队
+
 发表时间：Wed, 11 Feb 2026 12:24:51
-原文链接：https://arxiv.org/abs/2602.10787
+
+原文链接：[https://arxiv.org/abs/2602.10787](https://arxiv.org/abs/2602.10787)
 
 ——LLMs + 外部知识 + 结构化引导，非传统深度学习和静态分析
 
