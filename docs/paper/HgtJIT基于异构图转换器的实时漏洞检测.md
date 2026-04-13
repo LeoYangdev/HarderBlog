@@ -1,5 +1,5 @@
 ---
-title: HgtJIT : 基于异构图转换器的实时漏洞检测
+title: HgtJIT:基于异构图转换器的实时漏洞检测
 date: 2026-04-06
 sidebar: auto
 ---
