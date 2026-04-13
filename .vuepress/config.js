@@ -70,6 +70,16 @@ module.exports = {
         email: '1511673630@qq.com',
         link: 'https://qm.qq.com/cgi-bin/qm/qr?k=cGuCpXonGrniN3psKi3sHC5paymxo52H&jump_from=webapi&authKey=o5mW5XbT3KdAY5LeLg+6j1SDrIcz7C1+Vk3ztAIe0DriAM7Bxjn0Vaq6HteXTZ03'
       },
+      {
+        title: '小工具',
+        desc: '一些小工具',
+        link: 'http://dgut.derrick51.cn'
+      },
+      {
+        title: 'dq的博客',
+        desc: 'dq的博客',
+        link: 'http://blog.derrick51.cn'
+      },
     ],
 	//socialLinks: [     // 信息栏展示社交信息
 	//{ icon: 'reco-github', link: 'https://github.com/recoluan' },
