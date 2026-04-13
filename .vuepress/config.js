@@ -84,7 +84,13 @@ module.exports = {
     // 自动形成侧边导航
     // sidebar: 'auto',
     // 文档侧边栏
-    sidebar: 'auto',  
+    sidebar: {
+      '/docs/paper/': [
+        '基于深度神经网络的软件漏洞检测',
+        'ICLR2025-影响力引导的扩散模型用于数据集蒸馏',
+        'StableGuard潜在扩散模型中统一的版权保 护和篡改定位'
+      ],
+    },  
     // 最后更新时间
     lastUpdated: '上次更新',
     // 作者
