@@ -41,8 +41,7 @@ module.exports = {
       { text: '文档', 
         icon: 'reco-message',
         items: [
-          { text: '我的文档', link: '/docs/theme-reco/' },
-          { text: '测试文档', link: '/docs/test-docs/' }
+          { text: '我的论文笔记', link: '/docs/paper/' }
         ]
       },
       { text: '联系作者', 
@@ -85,14 +84,7 @@ module.exports = {
     // 自动形成侧边导航
     // sidebar: 'auto',
     // 文档侧边栏
-    sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ],
-    },  
+    sidebar: 'auto',  
     // 最后更新时间
     lastUpdated: '上次更新',
     // 作者
