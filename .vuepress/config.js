@@ -102,7 +102,8 @@ module.exports = {
         'StableGuard潜在扩散模型中统一的版权保护和篡改定位',
         'HgtJIT基于异构图转换器的实时漏洞检测',
         'VulReaD知识图引导的软件漏洞推理与检测',
-        '面向软件漏洞检测的大语言模型-模型,方法,技术,数据集与评价指标研究综述'
+        '面向软件漏洞检测的大语言模型-模型,方法,技术,数据集与评价指标研究综述',
+        '计算机安全中机器学习的经验与禁忌：Dos and Don''t of Machine Learning in Computer Security'
       ],
     },  
     // 最后更新时间
